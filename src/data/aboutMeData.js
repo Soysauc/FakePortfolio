@@ -1,10 +1,10 @@
 export const aboutMeData = [
-	{
-		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-	},
-	{
-		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-	},
+  {
+    id: 1,
+    bio: "An experienced freelance software engineer who has a knack for languages, programming and human, learning, and living. As a JavaScript developer who primarily uses React he is up to date with the relevant best practices and paradigms required to become and stay attuned to his craft.",
+  },
+  {
+    id: 2,
+    bio: " His education not only includes a technical STEM education that readied him for proficiency in his tech stack (MERN) but also prepared him with the tools necessary to learn other technologies re- lated to true mastery in his field. To round out his studies he is finishing a Bachelors degree in Communications, to explore not only the technical side of communication but also the social side.",
+  },
 ];
